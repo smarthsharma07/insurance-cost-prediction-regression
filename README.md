@@ -81,9 +81,9 @@ L1 regularization used to shrink less important coefficients.
 
 | Model | RMSE | R² |
 |------|------|------|
-| Linear Regression | ~5796 | ~0.78 |
-| Ridge Regression | ~4000 | ~0.89 |
-| Lasso Regression | ~4000 | ~0.89 |
+| Linear Regression | ~5796.284 | ~0.7835 |
+| Ridge Regression | ~5796.35 | ~0.7835 |
+| Lasso Regression | ~5796.288 | ~0.7835 |
 
 The final model selected was **Ridge Regression with α = 0.1**.
 
@@ -106,6 +106,9 @@ The final model selected was **Ridge Regression with α = 0.1**.
 - Scikit-learn
 
 ---
+## Files 
+- medical_insurance.csv is the dataset
+- medical insurance charges predictor - regression.ipynb is the jupyter notebook with the full workflow of this project.
 
 ## Future Improvements
 
