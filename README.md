@@ -122,7 +122,5 @@ Possible improvements for this project include:
 
 
 ## Author
-Smarth Sharma
+Smarth Sharma - 2026
 - Machine Learning regression project exploring EDA and regularization techniques for cost prediction.
-
-## Project Structure
